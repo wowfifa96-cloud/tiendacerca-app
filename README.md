@@ -198,3 +198,5 @@ real más adelante.
   paquete, abrí `pubspec.yaml` y bajá el número de versión (por
   ejemplo `^13.0.2` a `^13.0.0`) o corré
   `flutter pub upgrade --major-versions`.
+#   t i e n d a c e r c a - a p p  
+ 
